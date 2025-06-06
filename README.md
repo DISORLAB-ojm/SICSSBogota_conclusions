@@ -1,4 +1,4 @@
-Conclusiones y direcciones futuras SICSS Bogotá 2025
+# Conclusiones y direcciones futuras SICSS Bogotá 2025
 
 Convergencia y divergencia de paradigmas
 Cultural analytics
@@ -7,7 +7,7 @@ Digital methods
 Sociología Analítica (Analytical Sociology)
 Estudios de ciencia y tecnología (STS, QSS)
 
-Lenguaje(s), programación e IA (automatización)
+# Lenguaje(s), programación e IA (automatización)
 Recolección/transcripción 
 Limpieza 
 Codificación
@@ -15,7 +15,7 @@ Descubrimiento y modelación
 Interpretación 
 Comunicación
 
-¿El giro cualitativo? 
+# ¿El giro cualitativo? 
 Sensibilidad etnográfica
 Prompt evaluation as conversational analysis Un-considering Contextual Information: Assessing LLMs' Understanding of Indexical Elements
 
@@ -32,6 +32,9 @@ Indexicalidad
 
 Interacción Humano-Máquina (H-CI, human–computer interaction), explotación/configuración de los requisitos interaccionales humanos que fuerzan a las personas a interactuar en las iteraciones del chat mientras genera la sensación de una conversación auténtica.
 
+https://docs.google.com/document/d/1jRVfVjZ3D6f6nnJtR5CoqEJKUXxEfwyOzQ4REx7vBiA/edit?usp=sharing
+
+
 https://github.com/anthay/ELIZA/tree/master
 
 Interactional trouble, machine down
@@ -43,7 +46,7 @@ Géneros literarios y sociales
 
 
 
-Un giro cuantitativo?
+## Un giro cuantitativo?
 # Re-positioning numbers: scaling, approximation and embedding in platform attractors
 
 - platforms at the core of computational social science
